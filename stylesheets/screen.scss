@@ -62,8 +62,8 @@ header[role='banner'] {
   .logo {
     @include left-column;
     @include replace-text("ruby-vietnam-logo.png");
-    width: 256px;
-    height: 256px;
+    width: 180px;
+    height: 180px;
   }
 }
 
@@ -87,6 +87,7 @@ nav {
 [role='main'] {
   @include right-column;
   @include respond-to(tablet) { float: none; margin: 0 17px; width: 90%; }
+  margin-top: -310px;
 
   & section { margin-bottom: 5em; }
 }
