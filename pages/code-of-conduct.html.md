@@ -1,4 +1,4 @@
-# Ruby Vietnam Code of Conduct
+# Quy tắc ứng xử
 
 ## Matz is nice, and we are nice.
 
