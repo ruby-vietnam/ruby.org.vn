@@ -1,25 +1,31 @@
 # Quy tắc ứng xử
 
-## Matz is nice, and we are nice.
+## Ông Matz rất tốt, và chúng ta cũng vậy.
 
-In the same way that Matz has written Ruby with a focus on developer happiness, we are focused on community happiness. The Vietnamese Ruby community is full of wonderful people from a diverse range of backgrounds, and we want to ensure it remains a welcoming and safe environment to all who wish to be a part of it.
+Khi Matz viết ngôn ngữ Ruby, ông rất quan tâm vào trải nghiệm của lập trình viên. Và nhóm cũng rất quan
+tâm về trải nghiệm của các thành viên trong cộng đồng. Cộng đồng Ruby Việt Nam có rất nhiều thành viên từ mọi
+ngóc ngách của cuộc sống, với các nghành nghề và hoản cảnh khác nhau, vì thế chúng tôi muốn đảm bảo một môi
+trường an toàn và lành mạnh cho tất cả những ai muốn tham gia.
 
-Whenever we come together as a community, our shared spaces are opportunities to showcase the best of what we can be. We are there to support our peers - to build each other up, to accept each other for who they are, and to encourage each other to become the people they want to be.
+Khi chúng ta cởi mở và đến với nhau với nhau như một nhà, chúng ta có thể chứng tỏ chúng ta có thể làm được nhiều
+điều phi thường cho nhau. Chúng ta giúp đỡ lẫn nhau qua việc giúp nhau phát triển, chấp nhận sự khác biệt của
+nhau và khuyến khích lẫn nhau trở nên tốt hơn.
 
-With that in mind, if you are present at any Ruby Vietnam event, whether as an attendee, organiser, sponsor or speaker, we take it as given that you agree to follow this code of conduct:
+Với tinh thần đó, nếu bạn có tham gia một sự kiện của Ruby Vietnam với tư cách người nghe, người tổ chức, người nói
+hay người tài trợ, chúng tôi cho rằng bạn sẽ đồng ý với các quy tắc ứng xử sau:
 
-The Ruby Vietnam organisation is dedicated to providing harassment-free experiences at events and conferences for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, religion, or age. We do not tolerate harassment in any form.
+Tổ chức Ruby Việt Nam cam kết cung câp một môi trường lành mạnh với không có bất kì sự quấy rối nào ở các sự kiện
+hay hội thảo cho mọi người, bất kể tuổi tác, giới tính, các điều kiện tàn tật, tôn giáo và sắc tộc. Chúng tôi không
+chấp nhận hoạt động quấy rối ở bất kì hình thức nào.
 
-All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate in any circumstance.
+Tất cả hình thức giao tiếp nên phù hợp cho đối tượng chuyên gia, bao gồm các những thành phần khác nhau về sắc tộc.
+Các ngôn từ hay hình ảnh quấy rối tình dục không được chấp nhận dưới bất kì hình thức nào.
 
-Be kind to others. Do not insult or put down other members of the community. Be respectful towards others. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for events supported by Ruby Vietnam.
+Xin các bạn hãy tốt với nhau. Xin đừng lăng mạ và sỉ nhục các thành viên của cộng đồng. Xin hay tôn trọng lẫn nhau. Và đừng tiết kiệm lời cảm ơn nếu ai giúp bạn. Xin hay nhớ rằng tất cả hành động quấy rồi về tình dục, kỳ thị tôn giáo và sắc tộc hoặc các câu đùa nhạy cảm đều không phù hợp cho các sự kiện hỗ trợ bởi Ruby Việt Nam.
 
-Anyone violating these rules at events may be asked to leave the event without a refund at the sole discretion of the organisers.
+Bất kể ai vi phạm các điều luật trên sẽ có thể được mời rời khỏi sự kiện và sẽ không hoàn lại tiền vé nếu sự kiện có bán vé.
 
-If you or someone else is subject to harassment, or you have a concern, please contact the event organisers (who will introduce themselves at the beginning of the event), or member of [the Ruby Vietnam committee](/committee-members.html).
+Nếu bạn hoặc người bạn biết là nạn nhân của các hình thức quấy rối, hoặc bạn có thắc mắc, xin hãy liên lạc ban tổ
+chức sư kiện (người giới thiệu chương trình), hoặc thành viên của [ban quản trị](/committee-members.html).
 
-The Ruby community is a welcoming and friendly place – thank you for being a part of it.
-
-- - -
-
-This Code of Conduct has learned and built upon the efforts from many others, both within the Ruby community and more widely. Thank you to all who provided inspiration and feedback.
+Chúng tôi cảm ơn tất cả những ai đã đóng góp ý kiển phản hồi.
