@@ -112,16 +112,32 @@ nav {
   margin-bottom: 2em;
 }
 
-
-/* Committee members page */
-#members {
+/* Projects page */
+#projects {
   article {
-    min-height: 150px;
+    min-height: 100px;
     border-bottom: 1px solid #999;
     &:last-child { border: 0; }
 
     padding-bottom: 1.5em;
     margin-bottom: 3em;
+
+      h3 {
+        font-size: 1.25em;
+        margin-bottom: 0.2em;
+      }
+  }
+}
+
+/* Committee members page */
+#members {
+article {
+  min-height: 150px;
+  border-bottom: 1px solid #999;
+  &:last-child { border: 0; }
+
+  padding-bottom: 1.5em;
+  margin-bottom: 1em;
 
     img {
       float: right;
