@@ -14,16 +14,17 @@ nhau và khuyến khích lẫn nhau trở nên tốt hơn.
 Với tinh thần đó, nếu bạn có tham gia một sự kiện của Ruby Vietnam với tư cách người nghe, người tổ chức, người nói
 hay người tài trợ, chúng tôi cho rằng bạn sẽ đồng ý với các quy tắc ứng xử sau:
 
-Tổ chức Ruby Việt Nam cam kết cung câp một môi trường lành mạnh với không có bất kì sự quấy rối nào ở các sự kiện
-hay hội thảo cho mọi người, bất kể tuổi tác, giới tính, các điều kiện tàn tật, tôn giáo và sắc tộc. Chúng tôi không
+Tổ chức Ruby Việt Nam cam kết cung cấp một môi trường lành mạnh với không có bất kì sự quấy rối nào ở các sự kiện
+hay hội thảo cho mọi người, bất kể tuổi tác, giới tính, các điều kiện thể chất, tôn giáo và sắc tộc. Chúng tôi không
 chấp nhận hoạt động quấy rối ở bất kì hình thức nào.
 
-Tất cả hình thức giao tiếp nên phù hợp cho đối tượng chuyên gia, bao gồm các những thành phần khác nhau về sắc tộc.
-Các ngôn từ hay hình ảnh quấy rối tình dục không được chấp nhận dưới bất kì hình thức nào.
+Tất cả hình thức giao tiếp nên phù hợp cho đối tượng chuyên gia. Các ngôn từ hay hình ảnh quấy rối không được chấp nhận dưới bất kì hình thức nào.
 
-Xin các bạn hãy tốt với nhau. Xin đừng lăng mạ và sỉ nhục các thành viên của cộng đồng. Xin hay tôn trọng lẫn nhau. Và đừng tiết kiệm lời cảm ơn nếu ai giúp bạn. Xin hay nhớ rằng tất cả hành động quấy rồi về tình dục, kỳ thị tôn giáo và sắc tộc hoặc các câu đùa nhạy cảm đều không phù hợp cho các sự kiện hỗ trợ bởi Ruby Việt Nam.
+Xin các bạn hãy tốt với nhau. Xin đừng lăng mạ và sỉ nhục các thành viên của cộng đồng. Xin hay tôn trọng lẫn nhau.
+Và đừng tiết kiệm lời cảm ơn nếu ai giúp bạn. Xin hay nhớ rằng tất cả hành động quấy rồi về tình dục, kỳ thị tôn giáo
+và sắc tộc hoặc các câu đùa nhạy cảm đều không phù hợp cho các sự kiện hỗ trợ bởi Ruby Việt Nam.
 
-Bất kể ai vi phạm các điều luật trên sẽ có thể được mời rời khỏi sự kiện và sẽ không hoàn lại tiền vé nếu sự kiện có bán vé.
+Bất kể ai vi phạm các điều luật trên sẽ có thể được mời rời khỏi sự kiện và sẽ không được hoàn lại tiền vé nếu sự kiện có bán vé.
 
 Nếu bạn hoặc người bạn biết là nạn nhân của các hình thức quấy rối, hoặc bạn có thắc mắc, xin hãy liên lạc ban tổ
 chức sư kiện (người giới thiệu chương trình), hoặc thành viên của [ban quản trị](/committee-members.html).
