@@ -7,7 +7,7 @@ tâm về trải nghiệm của các thành viên trong cộng đồng. Cộng �
 ngóc ngách của cuộc sống, với các nghành nghề và hoản cảnh khác nhau, vì thế chúng tôi muốn đảm bảo một môi
 trường an toàn và lành mạnh cho tất cả những ai muốn tham gia.
 
-Khi chúng ta cởi mở và đến với nhau với nhau như một nhà, chúng ta có thể chứng tỏ chúng ta có thể làm được nhiều
+Khi chúng ta cởi mở với nhau như anh em, chúng ta chứng tỏ chúng ta có thể làm được nhiều
 điều phi thường cho nhau. Chúng ta giúp đỡ lẫn nhau qua việc giúp nhau phát triển, chấp nhận sự khác biệt của
 nhau và khuyến khích lẫn nhau trở nên tốt hơn.
 
