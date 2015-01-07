@@ -91,8 +91,8 @@ Based on Ruby Australia static site at <a href="https://github.com/rubyaustralia
 
 ## Content licence
 
-Content is Copyright 2014 by Ruby Vietnam, All rights reserved.
+Content is Copyright 2014-2015 by Ruby Vietnam, All rights reserved.
 
 ## Logotype licence
 
-"Ruby Vietnam" 'Gem Dialogue' and Typographic logo are Copyright 2014 by Ruby Vietnam, All rights reserved.
+"Ruby Vietnam" 'Gem Dialogue' and Typographic logo are Copyright 2014-2015 by Ruby Vietnam, All rights reserved.
