@@ -4,7 +4,7 @@
 
 Khi Matz viết ngôn ngữ Ruby, ông rất quan tâm vào trải nghiệm của lập trình viên. Và nhóm cũng rất quan
 tâm về trải nghiệm của các thành viên trong cộng đồng. Cộng đồng Ruby Việt Nam có rất nhiều thành viên từ mọi
-ngóc ngách của cuộc sống, với các nghành nghề và hoản cảnh khác nhau, vì thế chúng tôi muốn đảm bảo một môi
+ngóc ngách của cuộc sống, với các ngành nghề và hoản cảnh khác nhau, vì thế chúng tôi muốn đảm bảo một môi
 trường an toàn và lành mạnh cho tất cả những ai muốn tham gia.
 
 Khi chúng ta cởi mở với nhau như anh em, chúng ta chứng tỏ chúng ta có thể làm được nhiều
