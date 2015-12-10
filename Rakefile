@@ -10,7 +10,7 @@ namespace :build do
   task :stylesheets do
     sh 'compass compile -c compass-config.rb'
   end
-  
+
   desc "Build the javascripts, outputting to ./site/js"
   task :javascripts do
     sh 'mkdir -p ./site/js'
@@ -22,7 +22,7 @@ namespace :build do
     sh 'mkdir -p ./site/images'
     sh 'cp -r images/* ./site/images'
   end
-  
+
   desc "Setup the CNAME"
   task :cname do
     sh 'cp CNAME ./site/'
