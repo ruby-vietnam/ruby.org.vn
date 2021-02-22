@@ -95,4 +95,4 @@ Content is Copyright 2014-2016 by Ruby Vietnam, All rights reserved.
 
 ## Logotype licence
 
-"Ruby Vietnam" 'Gem Dialogue' and Typographic logo are Copyright 2014-2016 by Ruby Vietnam, All rights reserved.
+"Ruby Vietnam" 'Gem Dialogue' and Typographic logo are Copyright 2014-2021 by Ruby Vietnam, All rights reserved.
