@@ -1,7 +1,7 @@
 # A sample Gemfile
 source "http://rubygems.org"
 
-gem "haml", "~> 4.0.3"
+gem "haml", "~> 5.0.0"
 gem "sass", "~> 3.2.12"
 gem "compass", "~> 0.12.2"
 gem "compass-normalize"
